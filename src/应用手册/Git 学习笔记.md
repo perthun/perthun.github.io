@@ -152,6 +152,9 @@ $ git remote rm [name]
 
 ~~更改分支名称~~
 
+
+$ git branch -m [old name] [new name]
+
 ```
 # 查看分支
 $ git branch
