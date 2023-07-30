@@ -6,10 +6,10 @@ export default navbar([
   {
     text: "会计实操",
     icon: "lightbulb",
-    link: "/kuaiji/",
+    link: "/会计实操/",
   },
   {
     text: "应用手册",
-    link: "/yingyong/",
+    link: "/应用手册/",
   },
 ]);

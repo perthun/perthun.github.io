@@ -7,7 +7,7 @@ export default sidebar([
   {
     text: "会计实操",                // 菜单显示的文本
     icon: "",                              // 菜单的图标
-    prefix: "/kuaiji/",                // 页面的路径前缀
+    prefix: "/会计实操/",                // 页面的路径前缀
     link: "",                              // 点击后跳转的地址
     // collapsible: true,           // 菜单是否可折叠
     children: "structure",        // 自动扫描子目录
@@ -15,7 +15,7 @@ export default sidebar([
   {
     text: "应用手册",
     icon: "",
-    prefix: "/yingyong/",
+    prefix: "/应用手册/",
     link: "",
     children: "structure",
   }
