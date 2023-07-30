@@ -31,7 +31,7 @@ pnpm create vuepress-theme-hope [dir]
 对 VuePress 项目进行基本的配置。
 
 1. 删除案例文件。
-2. ~~使用准备好的配置文件覆盖默认配置。~~（可跳过，部署脚本会自动复制）
+2. ~~使用准备好的配置文件覆盖默认配置。~~（可跳过，推送脚本会自动复制）
     1. `deploy.sh` 部署文件
     2. `/src/README.md` 首页
     3. `/src/.vuepress/config.ts`
