@@ -1,30 +1,15 @@
 import { navbar } from "vuepress-theme-hope";
 
+// 参考 https://github.com/rockbenben/LearnData/blob/main/docs/.vuepress/navbar.ts
 export default navbar([
-  "/",
-  "/demo/",
+
   {
-    text: "指南",
+    text: "会计实操",
     icon: "lightbulb",
-    prefix: "/guide/",
-    children: [
-      {
-        text: "Bar",
-        icon: "lightbulb",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "ellipsis", link: "" }],
-      },
-      {
-        text: "Foo",
-        icon: "lightbulb",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "ellipsis", link: "" }],
-      },
-    ],
+    link: "/kuaiji/",
   },
   {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    text: "应用手册",
+    link: "/yingyong/",
   },
 ]);
