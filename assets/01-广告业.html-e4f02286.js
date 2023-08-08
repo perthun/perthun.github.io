@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as _,c as t,a as o}from"./app-ff2cc072.js";const c={},s=o("p",null,"记账可按时间顺序，也可按类型",-1),n=[s];function r(a,l){return _(),t("div",null,n)}const m=e(c,[["render",r],["__file","01-广告业.html.vue"]]);export{m as default};
