@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-c27b6911.js";import{o as _,c as o,a as e}from"./app-3281f16a.js";const s={},c=e("p",null,[e("a",{href:"vx_attachments/27361919237145/%E5%B7%A5%E8%B5%84%E8%AF%B8%E8%A1%A8.xlsx"},"工资诸表.xlsx")],-1),a=[c];function n(r,l){return _(),o("div",null,a)}const i=t(s,[["render",n],["__file","薪酬管理.html.vue"]]);export{i as default};
