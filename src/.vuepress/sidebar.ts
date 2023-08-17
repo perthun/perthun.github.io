@@ -5,9 +5,9 @@ import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar([
   {
-    text: "会计实操",                // 菜单显示的文本
+    text: "财务会计",                // 菜单显示的文本
     icon: "",                              // 菜单的图标
-    prefix: "/会计实操/",                // 页面的路径前缀
+    prefix: "/财务会计/",                // 页面的路径前缀
     link: "",                              // 点击后跳转的地址
     // collapsible: true,           // 菜单是否可折叠
     children: "structure",        // 自动扫描子目录

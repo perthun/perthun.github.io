@@ -1,5 +1,5 @@
 ---
-title: 会计实操
+title: 财务会计
 icon: 
 order: 
 date: 2023-08-04
