@@ -4,9 +4,9 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
 
   {
-    text: "会计实操",
+    text: "财务会计",
     icon: "lightbulb",
-    link: "/会计实操/",
+    link: "/财务会计/",
   },
   {
     text: "应用手册",
