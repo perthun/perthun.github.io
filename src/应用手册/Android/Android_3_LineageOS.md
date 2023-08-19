@@ -1,4 +1,9 @@
-# LineageOS
+---
+title: LineageOS
+icon: 
+order: 3
+date: 2023-07-11
+---
 
 如无必要，勿增实体——无 root、无模块、无 adb、无 GApps。
 

@@ -1,4 +1,9 @@
-# crDroid
+---
+title: crDroid
+icon: 
+order: 4
+date: 2023-08-13
+---
 
 安装界面：WIFI、人脸（点是但不需要设置）、PIN码、指纹、手势导航
 
