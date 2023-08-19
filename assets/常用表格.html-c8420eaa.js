@@ -1,0 +1,1 @@
+import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as e}from"./app-2233c3b7.js";const s={},c=e("p",null,"固定资产记录及折旧表",-1),n=e("p",null,"商品库存表",-1),l=e("p",null,"工资核算表",-1),r=[c,n,l];function a(i,d){return t(),o("div",null,r)}const p=_(s,[["render",a],["__file","常用表格.html.vue"]]);export{p as default};
