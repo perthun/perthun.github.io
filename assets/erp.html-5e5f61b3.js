@@ -1,1 +1,0 @@
-import{_ as r}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as a,a as e,b as o}from"./app-ab662e84.js";const c={},s=e("h1",{id:"erp",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#erp","aria-hidden":"true"},"#"),o(" erp")],-1),n=[s];function _(d,i){return t(),a("div",null,n)}const p=r(c,[["render",_],["__file","erp.html.vue"]]);export{p as default};
